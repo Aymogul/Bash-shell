@@ -1,6 +1,7 @@
 ## Bash-shell
 # Notes
 
+cntl o [enter] + cntl x-----for nano text editor
 esc wq --- for vi/vim
 i for insert in vi/vim
  expr for doing calculation 
