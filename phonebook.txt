@@ -6,3 +6,9 @@ Avery,Cory 5554321
 Fogarty,Suzie 5552314
 
 # cat phonebook.txt | sort---- this will arrnage this info alphabetically
+# flags
+# n- numerical value
+# k- coloumn
+# r- reverse order
+# t- coloumn separator in delimeter
+#
