@@ -1,0 +1,8 @@
+# phonebook is to array of many information which could be arranged or not
+Smith,Brett 5554321 
+Doe,John 5551234 
+Doe,Jane 5553214 
+Avery,Cory 5554321 
+Fogarty,Suzie 5552314
+
+# cat phonebook.txt | sort---- this will arrnage this info alphabetically
