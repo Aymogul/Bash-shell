@@ -1,0 +1,23 @@
+README.md
+arg.sh*
+exit.sh
+file1/
+file2/
+first.sh
+folder-01/
+head.sh
+hello.txt
+hola.txt
+joy.sh
+man.txt
+my_files
+name.txt
+phonebook.txt
+read.sh
+read2.sh*
+start_container.sh*
+stop_container.sh*
+hello my linux love
+
+echo "hello my linux love" >> my_files
+cat my_files
